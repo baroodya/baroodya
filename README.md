@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**baroodya/baroodya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/alex-baroody/">
+  <img align="left" alt="Alex's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/baroodya">
+  <img align="left" alt="Alex's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br/><br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on recreating [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models](https://arxiv.org/pdf/2005.00683.pdf) with new architectures, as well as [A-Fi](https://github.com/baroodya/a-fi), a project focused on Time-series prediction and RNNS for predicting stock market prices.
+- 🌱 I’m currently learning about Transformers, LLMs, and SOTA research in COS 484: Natural Language Processing and COS 485: Neural Networks.
+- 💬 Ask me about Neural Networks and their applications to NLP, Computer Vision, and Personal Finance, as well as ultimate frisbee, gaming computers, and the outdoors!
+- 😄 Pronouns: He/Him/His
+<!--- - ⚡ Fun fact: ... -->
